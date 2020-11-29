@@ -1,0 +1,14 @@
+Package used in "storiesBackend" : cors, express, nodemon
+To install these type following commands on Console.
+npm i express
+npm i -g cors
+npm i -g nodemon
+
+To Start React app type:
+ cd stories
+ npm start  
+
+
+For App Functioning: To view Stories Click on Carsoul button to view Person Stories.
+Stories might take time to load. Essentially to fetch the data from backend.
+Contact Name "Rakesh" has Gif Stories.

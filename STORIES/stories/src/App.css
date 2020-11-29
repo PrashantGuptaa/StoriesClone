@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.carsoul {
+  margin-top: 8px;
+  max-height: 700px;
+  width: 1000px;
+  z-index: 1;
+}
+
+.heading {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-shadow: 3px 3px 8px blue;
+  color:blue;
+}
